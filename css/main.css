@@ -2,12 +2,31 @@
 Escribir el CSS necesario aqui
 */
 .intro header h1 {
-    border: 8px solid red;
-    width: 400px;
-    height: 400px;
+         background-color:white;
+   text-align: center;
+  border: 2px dashed black;
+    width: 850px;
+    height: 20px;
     padding-bottom: 20px;
     margin-top: 20px;
     margin-right: 20px;
     margin-left: 20px;
+    font-size: 15px;
     
+    padding-left: 10px;
+    }
+ 
+    body{
+        
+    border: 10px solid #D148D7;
+    width: 900px;
+    height: 100px;
+    
+    background-color: bisque;
+    text-align: center;
+    margin-left: 20%;
+  
+    }
+html{
+    background-color: white;
 }
