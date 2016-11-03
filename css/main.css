@@ -1,9 +1,9 @@
 /** 
 Escribir el CSS necesario aqui
 */
-.intro header h1 {
-         background-color:white;
-   text-align: center;
+div{
+background-color:white;
+   
   border: 2px dashed black;
     width: 850px;
     height: 20px;
@@ -23,10 +23,14 @@ Escribir el CSS necesario aqui
     height: 100px;
     
     background-color: bisque;
-    text-align: center;
+    
     margin-left: 20%;
   
     }
 html{
     background-color: white;
+}
+h1{
+    font-size: 15px;
+    text-align: center;
 }
